@@ -18,7 +18,6 @@
 - `Apache Maven`
 - `H2 database`
 - `Postman`
-- `PostgreSQL`
 
 ## Diagrama
 ![image 3](https://user-images.githubusercontent.com/89430801/221357357-f5a6f924-789c-4c3e-987a-06ab9195a171.svg)
